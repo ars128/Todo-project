@@ -11,7 +11,7 @@ function App() {
         <AppName />
         <AddItems />
         <div className="todo-items">
-          <TodoItem1 />
+          <TodoItem1 todoName="But Milk" todoDate="11/02/2024" />
           <TodoItem2 />
         </div>
       </center>
